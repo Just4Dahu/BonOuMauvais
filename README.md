@@ -1,7 +1,7 @@
 # Simulateur de bienveillance !
 
 
-Programme qui classe les personnes en fonction du niveau de beinveillance des participants.  
+Programme qui classe les personnes en fonction du niveau de beinveillance des participants.
 
 
 - A faire : 
