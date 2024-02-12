@@ -27,9 +27,10 @@ participants = [
 
 actions = {
     "Confident de X": 5,
-    "Autre action bienveillante": 3,
-    "Action neutre": 1,
-    "Action malveillante": -2
+    "!! Masterclass !! à sucer X": 3,
+    "Fait un cadeau à X": 1,
+    "Féliciter X pour son succès récent": 2,
+    " "
 }
 
 def simuler_action(participant, action):
